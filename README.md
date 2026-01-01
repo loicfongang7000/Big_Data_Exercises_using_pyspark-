@@ -1,1 +1,2 @@
-Resoving Exercises of the Interesting BigData Homework.
+<div dir="rtl">Resoving Exercises of the Interesting BigData Homework.
+</div>
